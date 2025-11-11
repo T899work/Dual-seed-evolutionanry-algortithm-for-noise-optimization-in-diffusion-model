@@ -1,0 +1,719 @@
+[
+    {
+        "prompt": "A black apple and a green backpack.",
+        "token_indices": [
+            3,
+            7
+        ]
+    },
+    {
+        "prompt": "Lego Arnold Schwarzenegger.",
+        "token_indices": [
+            3
+        ]
+    },
+    {
+        "prompt": "A blue cup and a green cell phone.",
+        "token_indices": [
+            3,
+            8
+        ]
+    },
+    {
+        "prompt": "A sign that says NeurIPS.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A storefront with NeurIPS written on it.",
+        "token_indices": [
+            2
+        ]
+    },
+    {
+        "prompt": "Three dogs on the street.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A storefront with Deep Learning written on it.",
+        "token_indices": [
+            2
+        ]
+    },
+    {
+        "prompt": "A real life photography of super mario, 8k Ultra HD.",
+        "token_indices": [
+            7
+        ]
+    },
+    {
+        "prompt": "A pyramid made of falafel with a partial solar eclipse in the background.",
+        "token_indices": [
+            2,
+            5,
+            10
+        ]
+    },
+    {
+        "prompt": "A hair drier underneath a sheep.",
+        "token_indices": [
+            3,
+            6
+        ]
+    },
+    {
+        "prompt": "Hovering cow abducting aliens.",
+        "token_indices": [
+            2,
+            4
+        ]
+    },
+    {
+        "prompt": "A zebra to the right of a fire hydrant.",
+        "token_indices": [
+            2,
+            9
+        ]
+    },
+    {
+        "prompt": "A yellow colored giraffe.",
+        "token_indices": [
+            4
+        ]
+    },
+    {
+        "prompt": "New York Skyline with Deep Learning written with fireworks on the sky.",
+        "token_indices": [
+            3,
+            9,
+            12
+        ]
+    },
+    {
+        "prompt": "New York Skyline with NeurIPS written with fireworks on the sky.",
+        "token_indices": [
+            3,
+            8,
+            11
+        ]
+    },
+    {
+        "prompt": "A donut underneath a toilet.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A side view of an owl sitting in a field.",
+        "token_indices": [
+            6,
+            10
+        ]
+    },
+    {
+        "prompt": "A storefront with Text to Image written on it.",
+        "token_indices": [
+            2
+        ]
+    },
+    {
+        "prompt": "A photo of a confused grizzly bear in calculus class.",
+        "token_indices": [
+            7,
+            9
+        ]
+    },
+    {
+        "prompt": "A banana on the left of an apple.",
+        "token_indices": [
+            2,
+            8
+        ]
+    },
+    {
+        "prompt": "A pizza cooking an oven.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A white colored sandwich.",
+        "token_indices": [
+            4
+        ]
+    },
+    {
+        "prompt": "Photo of a mega Lego space station inside a kids bedroom.",
+        "token_indices": [
+            7,
+            11
+        ]
+    },
+    {
+        "prompt": "A separate seat for one person, typically with a back and four legs.",
+        "token_indices": [
+            3,
+            6,
+            11,
+            14
+        ]
+    },
+    {
+        "prompt": "Five cars and cats on the street.",
+        "token_indices": [
+            2,
+            4,
+            7
+        ]
+    },
+    {
+        "prompt": "A storefront with 'Diffusion' written on it.",
+        "token_indices": [
+            2,
+            4
+        ]
+    },
+    {
+        "prompt": "A small vessel epropoeilled on watvewr by ors, sauls, or han engie.",
+        "token_indices": [
+            3,
+            6,
+            10,
+            14
+        ]
+    },
+    {
+        "prompt": "A zebra underneath a broccoli.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A horse riding an astronaut.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A blue coloured pizza and a red coloured cola.",
+        "token_indices": [
+            4,
+            9
+        ]
+    },
+    {
+        "prompt": "A sign that says 'Google Brain Toronto'.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A collection of nail is sitting on a table.",
+        "token_indices": [
+            4,
+            9
+        ]
+    },
+    {
+        "prompt": "A small blue book sitting on a large red book.",
+        "token_indices": [
+            4,
+            10
+        ]
+    },
+    {
+        "prompt": "A red colored banana and a green apple.",
+        "token_indices": [
+            4,
+            8
+        ]
+    },
+    {
+        "prompt": "A stop sign on the right of a refrigerator.",
+        "token_indices": [
+            3,
+            9
+        ]
+    },
+    {
+        "prompt": "A giraffe underneath a microwave.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A car on the left of a huge bus.",
+        "token_indices": [
+            2,
+            9
+        ]
+    },
+    {
+        "prompt": "A tennis racket underneath a traffic light.",
+        "token_indices": [
+            3,
+            7
+        ]
+    },
+    {
+        "prompt": "A painting by Grant Wood of an astronaut couple, american gothic style.",
+        "token_indices": [
+            9
+        ]
+    },
+    {
+        "prompt": "A sign that says 'Hello World'.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "An illustration of a small green elephant standing behind a large red mouse.",
+        "token_indices": [
+            7,
+            13
+        ]
+    },
+    {
+        "prompt": "A pizza on the right of a suitcase.",
+        "token_indices": [
+            2,
+            8
+        ]
+    },
+    {
+        "prompt": "Photo of a cat singing in a barbershop quartet.",
+        "token_indices": [
+            4,
+            8,
+            9
+        ]
+    },
+    {
+        "prompt": "New York Skyline with Diffusion written with fireworks on the sky.",
+        "token_indices": [
+            3,
+            5,
+            8,
+            11
+        ]
+    },
+    {
+        "prompt": "A green apple and a black backpack.",
+        "token_indices": [
+            3,
+            7
+        ]
+    },
+    {
+        "prompt": "Darth Vader playing with raccoon in Mars during sunset.",
+        "token_indices": [
+            2,
+            5,
+            9
+        ]
+    },
+    {
+        "prompt": "One car on the street.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A red book and a yellow vase.",
+        "token_indices": [
+            3,
+            7
+        ]
+    },
+    {
+        "prompt": "New York Skyline with 'Text to Image' written with fireworks on the sky.",
+        "token_indices": [
+            3,
+            8,
+            12,
+            15
+        ]
+    },
+    {
+        "prompt": "A 1960s yearbook photo with animals dressed as humans.",
+        "token_indices": [
+            3,
+            6
+        ]
+    },
+    {
+        "prompt": "A sheep to the right of a wine glass.",
+        "token_indices": [
+            2,
+            9
+        ]
+    },
+    {
+        "prompt": "A laptop on top of a teddy bear.",
+        "token_indices": [
+            2,
+            8
+        ]
+    },
+    {
+        "prompt": "One dog on the street.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "Paying for a quarter sized pizza with a pizza sized quarter.",
+        "token_indices": [
+            6,
+            11
+        ]
+    },
+    {
+        "prompt": "A small vessel propelled on water by oars, sails, or an engine.",
+        "token_indices": [
+            3,
+            6,
+            8,
+            10,
+            14
+        ]
+    },
+    {
+        "prompt": "Two cats and one dog sitting on the grass.",
+        "token_indices": [
+            2,
+            5,
+            9
+        ]
+    },
+    {
+        "prompt": "A sign that says 'Deep Learning'.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "An illustration of a large red elephant sitting on a small blue mouse.",
+        "token_indices": [
+            7,
+            13
+        ]
+    },
+    {
+        "prompt": "One cat and three dogs sitting on the grass.",
+        "token_indices": [
+            2,
+            5,
+            9
+        ]
+    },
+    {
+        "prompt": "A storefront with 'Hello World' written on it.",
+        "token_indices": [
+            2,
+            4
+        ]
+    },
+    {
+        "prompt": "A fish eating a pelican.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A red car and a blue sheep.",
+        "token_indices": [
+            3,
+            7
+        ]
+    },
+    {
+        "prompt": "A pink colored giraffe.",
+        "token_indices": [
+            4
+        ]
+    },
+    {
+        "prompt": "A brown colored giraffe.",
+        "token_indices": [
+            4
+        ]
+    },
+    {
+        "prompt": "A triangular pink stop sign. A pink stop sign in the shape of a triangle.",
+        "token_indices": [
+            5,
+            16
+        ]
+    },
+    {
+        "prompt": "A cube made of denim. A cube with the texture of denim.",
+        "token_indices": [
+            5,
+            8
+        ]
+    },
+    {
+        "prompt": "Two dogs on the street.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A bird scaring a scarecrow.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A shark in the desert.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A fisheye lens view of a turtle sitting in a forest.",
+        "token_indices": [
+            7,
+            11
+        ]
+    },
+    {
+        "prompt": "A blue bird and a brown bear.",
+        "token_indices": [
+            3,
+            7
+        ]
+    },
+    {
+        "prompt": "Greek statue of a man tripping over a cat.",
+        "token_indices": [
+            2,
+            5,
+            9
+        ]
+    },
+    {
+        "prompt": "Four cars on the street.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A church with stained glass windows depicting a hamburger and french fries.",
+        "token_indices": [
+            2,
+            6,
+            9,
+            12
+        ]
+    },
+    {
+        "prompt": "A green colored banana and a blue colored phone.",
+        "token_indices": [
+            4,
+            9
+        ]
+    },
+    {
+        "prompt": "Three cats and three dogs sitting on the grass.",
+        "token_indices": [
+            2,
+            5,
+            9
+        ]
+    },
+    {
+        "prompt": "A cube made of brick. A cube with the texture of brick.",
+        "token_indices": [
+            2,
+            13
+        ]
+    },
+    {
+        "prompt": "Five dogs on the street.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A storefront with 'Google Brain Toronto' written on it.",
+        "token_indices": [
+            2,
+            4
+        ]
+    },
+    {
+        "prompt": "Rainbow coloured penguin and eagle.",
+        "token_indices": [
+            3,
+            5
+        ]
+    },
+    {
+        "prompt": "Four dogs on the street.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A medieval painting of the wifi not working.",
+        "token_indices": [
+            2,
+            6
+        ]
+    },
+    {
+        "prompt": "A screenshot of an iOS app for ordering different types of milk.",
+        "token_indices": [
+            2,
+            6,
+            12
+        ]
+    },
+    {
+        "prompt": "Colouring page of large cats climbing the eifel tower in a cyberpunk future.",
+        "token_indices": [
+            5,
+            9,
+            12
+        ]
+    },
+    {
+        "prompt": "A cat on the right of a tennis racket.",
+        "token_indices": [
+            2,
+            9
+        ]
+    },
+    {
+        "prompt": "Illustration of a mouse using a mushroom as an umbrella.",
+        "token_indices": [
+            4,
+            7
+        ]
+    },
+    {
+        "prompt": "An orange colored sandwich.",
+        "token_indices": [
+            4
+        ]
+    },
+    {
+        "prompt": "A train on top of a surfboard.",
+        "token_indices": [
+            2,
+            7
+        ]
+    },
+    {
+        "prompt": "Hyper realistic photo of an abandoned industrial site during a storm.",
+        "token_indices": [
+            8,
+            11
+        ]
+    },
+    {
+        "prompt": "A black colored sandwich.",
+        "token_indices": [
+            4
+        ]
+    },
+    {
+        "prompt": "A sign that says 'Google Research Pizza Cafe'.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A connection point by which firefighters can tap into a water supply.",
+        "token_indices": [
+            3,
+            6,
+            12
+        ]
+    },
+    {
+        "prompt": "One cat and one dog sitting on the grass.",
+        "token_indices": [
+            2,
+            5,
+            9
+        ]
+    },
+    {
+        "prompt": "A bicycle on top of a boat.",
+        "token_indices": [
+            2,
+            7
+        ]
+    },
+    {
+        "prompt": "A couch on the left of a chair.",
+        "token_indices": [
+            2,
+            8
+        ]
+    },
+    {
+        "prompt": "A white car and a red sheep.",
+        "token_indices": [
+            3,
+            7
+        ]
+    },
+    {
+        "prompt": "A brown bird and a blue bear.",
+        "token_indices": [
+            3,
+            7
+        ]
+    },
+    {
+        "prompt": "A pear cut into seven pieces arranged in a ring.",
+        "token_indices": [
+            6,
+            10
+        ]
+    },
+    {
+        "prompt": "Two cats and two dogs sitting on the grass.",
+        "token_indices": [
+            2,
+            5,
+            9
+        ]
+    },
+    {
+        "prompt": "Two cats and three dogs sitting on the grass.",
+        "token_indices": [
+            2,
+            5,
+            9
+        ]
+    }
+]

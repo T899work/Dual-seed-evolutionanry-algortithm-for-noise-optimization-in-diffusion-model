@@ -1,0 +1,1485 @@
+[
+    {
+        "prompt": "A portrait painting of Leighann Vail.",
+        "token_indices": [
+            5
+        ]
+    },
+    {
+        "prompt": "Two young ladies seated with several other people at a dinner table.",
+        "token_indices": [
+            3,
+            8,
+            12
+        ]
+    },
+    {
+        "prompt": "Witches performing a ritual in a dark mall.",
+        "token_indices": [
+            1,
+            4,
+            8
+        ]
+    },
+    {
+        "prompt": "people bicycling near the beach on a bicycle lane",
+        "token_indices": [
+            1,
+            6,
+            9
+        ]
+    },
+    {
+        "prompt": "A tall giraffe is eating out of a basket.",
+        "token_indices": [
+            3,
+            9
+        ]
+    },
+    {
+        "prompt": "Some giraffes are walking around the zoo exhibit. ",
+        "token_indices": [
+            1,
+            8
+        ]
+    },
+    {
+        "prompt": "Illustration of a sugar skull day of the dead girl.",
+        "token_indices": [
+            10
+        ]
+    },
+    {
+        "prompt": "The image is a symmetrical barge with a clearheaded textured fractal pattern.",
+        "token_indices": [
+            6,
+            12
+        ]
+    },
+    {
+        "prompt": "Group of birds sitting on top of a television antenna on a building. ",
+        "token_indices": [
+            3,
+            10,
+            13
+        ]
+    },
+    {
+        "prompt": "The image depicts a portrait of a panda by Petros Afshar.",
+        "token_indices": [
+            5,
+            7
+        ]
+    },
+    {
+        "prompt": "The skater is riding very low on his board.",
+        "token_indices": [
+            2,
+            9
+        ]
+    },
+    {
+        "prompt": "Lava falls upon a crumbling stadium as crowds panic.",
+        "token_indices": [
+            1,
+            6,
+            8
+        ]
+    },
+    {
+        "prompt": "Three cows eating in a field with sea in background.",
+        "token_indices": [
+            2,
+            6,
+            8
+        ]
+    },
+    {
+        "prompt": "A Japanese castle landscape painting trending on Artstation.",
+        "token_indices": [
+            3,
+            4
+        ]
+    },
+    {
+        "prompt": "A person holding a very small slice on pizza between their fingers.",
+        "token_indices": [
+            2,
+            7,
+            9,
+            12
+        ]
+    },
+    {
+        "prompt": "A bowl filled with apple slices and ice cream",
+        "token_indices": [
+            2,
+            6,
+            9
+        ]
+    },
+    {
+        "prompt": "A woman wearing a bridal veil and suitcase poses with a man in a yellow tie.",
+        "token_indices": [
+            2,
+            6,
+            8,
+            12,
+            15
+        ]
+    },
+    {
+        "prompt": "Two men sitting in a green living room talking to a girl seen in the mirror.",
+        "token_indices": [
+            2,
+            8,
+            12,
+            16
+        ]
+    },
+    {
+        "prompt": "Siamese twins enjoying pickled eggs at a pub.",
+        "token_indices": [
+            2,
+            5,
+            8
+        ]
+    },
+    {
+        "prompt": "The shadow of a person across an asphalt street next to a street sign.",
+        "token_indices": [
+            2,
+            5,
+            9,
+            14
+        ]
+    },
+    {
+        "prompt": "Room full of people playing video games and having a party.",
+        "token_indices": [
+            1,
+            4,
+            7,
+            11
+        ]
+    },
+    {
+        "prompt": "A white Fed Ex sitting in front of a tall building.",
+        "token_indices": [
+            4,
+            11
+        ]
+    },
+    {
+        "prompt": "A brown and black dog sticking its head out a window.",
+        "token_indices": [
+            5,
+            8,
+            11
+        ]
+    },
+    {
+        "prompt": "An image of an aircraft carrier made of cheese.",
+        "token_indices": [
+            5,
+            9
+        ]
+    },
+    {
+        "prompt": "A tall giraffe in a zoo eating branches ",
+        "token_indices": [
+            3,
+            6,
+            8
+        ]
+    },
+    {
+        "prompt": "A plush of a cute sun eating creature.",
+        "token_indices": [
+            2,
+            6
+        ]
+    },
+    {
+        "prompt": "A cat in a tutu dancing to Swan Lake.",
+        "token_indices": [
+            2,
+            5,
+            9
+        ]
+    },
+    {
+        "prompt": "A dragon standing in a forest, drinking river water.",
+        "token_indices": [
+            2,
+            6,
+            9
+        ]
+    },
+    {
+        "prompt": "Paul Chuckle bowling on a pirate ship during a storm.",
+        "token_indices": [
+            2,
+            3,
+            7,
+            10
+        ]
+    },
+    {
+        "prompt": "Oil portrait of Gearless Joe by Greg Rutowski and Alphonse Mucha.",
+        "token_indices": [
+            5
+        ]
+    },
+    {
+        "prompt": "A giraffe walking through the grass towards a wall.",
+        "token_indices": [
+            2,
+            6,
+            9
+        ]
+    },
+    {
+        "prompt": "A white polar bear cub wearing sunglasses sits in a meadow with flowers.",
+        "token_indices": [
+            4,
+            6,
+            11,
+            13
+        ]
+    },
+    {
+        "prompt": "A demon boy smiling while reading a book in a library.",
+        "token_indices": [
+            3,
+            8,
+            11
+        ]
+    },
+    {
+        "prompt": "A green Gundam in an action pose that resembles Shrek.",
+        "token_indices": [
+            3,
+            10
+        ]
+    },
+    {
+        "prompt": "A train is moving along the track in the countryside.",
+        "token_indices": [
+            2,
+            7,
+            10
+        ]
+    },
+    {
+        "prompt": "A motorcycle that is sitting in the dirt.",
+        "token_indices": [
+            2,
+            8
+        ]
+    },
+    {
+        "prompt": "A small dog looking at a white plate holding donuts.",
+        "token_indices": [
+            3,
+            8,
+            10
+        ]
+    },
+    {
+        "prompt": "Very ornate bedroom with a chandelier over the bed.",
+        "token_indices": [
+            3,
+            6,
+            9
+        ]
+    },
+    {
+        "prompt": "there is a old rusted train sitting on the ground",
+        "token_indices": [
+            6,
+            10
+        ]
+    },
+    {
+        "prompt": "A lemon with a McDonald hat.",
+        "token_indices": [
+            2,
+            6
+        ]
+    },
+    {
+        "prompt": "Several different types of cell phones are shown here.",
+        "token_indices": [
+            6
+        ]
+    },
+    {
+        "prompt": "Whimsical creatures in a dark, surreal painting by Ronny Khalil.",
+        "token_indices": [
+            2
+        ]
+    },
+    {
+        "prompt": "A bear walks through a group of bushes with a plant in its mouth.",
+        "token_indices": [
+            2,
+            8,
+            11,
+            14
+        ]
+    },
+    {
+        "prompt": "a vintage photo of a man and a nurse ",
+        "token_indices": [
+            6,
+            9
+        ]
+    },
+    {
+        "prompt": "The feet of Lacrosse players scramble for the ball.",
+        "token_indices": [
+            2,
+            9
+        ]
+    },
+    {
+        "prompt": "Hooded figure standing over a ruined city with red haze and a grin.",
+        "token_indices": [
+            2,
+            7,
+            10,
+            13
+        ]
+    },
+    {
+        "prompt": "a group of people wearing ski equipment on a snowy field",
+        "token_indices": [
+            4,
+            7,
+            11
+        ]
+    },
+    {
+        "prompt": "Totem pole made out of cats.",
+        "token_indices": [
+            2,
+            6
+        ]
+    },
+    {
+        "prompt": "A pigeon sitting on top of a white table.",
+        "token_indices": [
+            2,
+            9
+        ]
+    },
+    {
+        "prompt": "Empty double decker London bus in rural area.",
+        "token_indices": [
+            5,
+            8
+        ]
+    },
+    {
+        "prompt": "Undead army on riding beasts with symbols and music.",
+        "token_indices": [
+            2,
+            5,
+            7,
+            9
+        ]
+    },
+    {
+        "prompt": "A kitten with a panda coloring eating bamboo.",
+        "token_indices": [
+            1,
+            5,
+            8
+        ]
+    },
+    {
+        "prompt": "Portrait of anime girl in mechanic armor in night Tokyo.",
+        "token_indices": [
+            4,
+            7,
+            10
+        ]
+    },
+    {
+        "prompt": "A man walking on the beach with his surfboard.",
+        "token_indices": [
+            2,
+            6,
+            9
+        ]
+    },
+    {
+        "prompt": "Claymation of Futurama characters.",
+        "token_indices": [
+            1,
+            4
+        ]
+    },
+    {
+        "prompt": "A street light and other road signs. ",
+        "token_indices": [
+            3,
+            7
+        ]
+    },
+    {
+        "prompt": "A portrait painting of Roxie Kownacki.",
+        "token_indices": [
+            6
+        ]
+    },
+    {
+        "prompt": "Francois Hollande depicted as a manga character in Japan.",
+        "token_indices": [
+            2,
+            7,
+            9
+        ]
+    },
+    {
+        "prompt": "A group of four friends commemorating a ski trip in the snow.",
+        "token_indices": [
+            5,
+            9,
+            12
+        ]
+    },
+    {
+        "prompt": "A spoon dressed up with eyes and a smile.",
+        "token_indices": [
+            2,
+            6,
+            9
+        ]
+    },
+    {
+        "prompt": "A man placing a turkey in an oven with oven mitts.  ",
+        "token_indices": [
+            2,
+            5,
+            8
+        ]
+    },
+    {
+        "prompt": "An athletic middle aged male skier courses downhill. ",
+        "token_indices": [
+            6,
+            8
+        ]
+    },
+    {
+        "prompt": "Ewoks swinging from Walmart rafters.",
+        "token_indices": [
+            1,
+            5
+        ]
+    },
+    {
+        "prompt": "The image is an oil on canvas painting of a broken man.",
+        "token_indices": [
+            8,
+            12
+        ]
+    },
+    {
+        "prompt": "A plate topped with lots of different kinds of fruit.",
+        "token_indices": [
+            2,
+            10
+        ]
+    },
+    {
+        "prompt": "A pizza is displayed inside a pizza box.",
+        "token_indices": [
+            2,
+            8
+        ]
+    },
+    {
+        "prompt": "A bathroom stall containing an empty toilet in it.",
+        "token_indices": [
+            3,
+            7
+        ]
+    },
+    {
+        "prompt": "A lemon wearing a suit and tie, full body portrait.",
+        "token_indices": [
+            2,
+            5,
+            7,
+            10
+        ]
+    },
+    {
+        "prompt": "A portrait of a dinner dish of a protein and greens.",
+        "token_indices": [
+            6,
+            9,
+            11
+        ]
+    },
+    {
+        "prompt": "Elvis Presley performing in a jumpsuit, artwork by Alessandro Pautasso.",
+        "token_indices": [
+            2,
+            6
+        ]
+    },
+    {
+        "prompt": "16 years old teenager wearing a white bear ear hat with a smirk on their face.",
+        "token_indices": [
+            4,
+            10,
+            16
+
+        ]
+    },
+    {
+        "prompt": "there are three woman that are laying on the beach",
+        "token_indices": [
+            4,
+            10
+        ]
+    },
+    {
+        "prompt": "An anime Spider Man girl.",
+        "token_indices": [
+            5
+        ]
+    },
+    {
+        "prompt": "Jack Pumpkinhead in the Land of Oz.",
+        "token_indices": [
+            2,
+            7
+        ]
+    },
+    {
+        "prompt": "Scene from Muppet Mad Max Fury Road.",
+        "token_indices": [
+            3,
+            7
+        ]
+    },
+    {
+        "prompt": "A flag flying with kites all around it.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "The Magician by René Magritte.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "There is a man and woman posing together  in a restaurant",
+        "token_indices": [
+            4,
+            6,
+            11
+        ]
+    },
+    {
+        "prompt": "a shiny metallic renaissance steampunk robot and a butterfly in the style of Jan van Eyck.",
+        "token_indices": [
+            6,
+            9
+        ]
+    },
+    {
+        "prompt": "A person flying a kite while standing in the grass.",
+        "token_indices": [
+            2,
+            5,
+            10
+        ]
+    },
+    {
+        "prompt": "a castle is in the middle of a eurpean city ",
+        "token_indices": [
+            2,
+            10
+        ]
+    },
+    {
+        "prompt": "a young male holding a baseball bat in a baseball uniform",
+        "token_indices": [
+            3,
+            7,
+            11
+        ]
+    },
+    {
+        "prompt": "Australian soldiers surrendering to an emu.",
+        "token_indices": [
+            2,
+            6
+        ]
+    },
+    {
+        "prompt": "A big metal bed frame with no mattress on it.",
+        "token_indices": [
+            4
+        ]
+    },
+    {
+        "prompt": "A Wojak looking over a sea of memes from a cliff on 4chan.",
+        "token_indices": [
+            2,
+            6,
+            11,
+            13
+        ]
+    },
+    {
+        "prompt": "Panorama of Hogwarts.",
+        "token_indices": [
+            3
+        ]
+    },
+    {
+        "prompt": "baseball player swinging metal bat at home plate.",
+        "token_indices": [
+            2,
+            5,
+            8
+        ]
+    },
+    {
+        "prompt": "A high shot of many people standing in an airport. ",
+        "token_indices": [
+            6,
+            10
+        ]
+    },
+    {
+        "prompt": "Close up of Cad Bane, with bad flash.",
+        "token_indices": [
+            5,
+            9
+        ]
+    },
+    {
+        "prompt": "A Weezer album painted by Hieronymus Bosch.",
+        "token_indices": [
+            3
+        ]
+    },
+    {
+        "prompt": "A woman riding skis across snow covered ground.",
+        "token_indices": [
+            2,
+            4,
+            6
+        ]
+    },
+    {
+        "prompt": "Family assembling missile in living room.",
+        "token_indices": [
+            1,
+            3,
+            6
+        ]
+    },
+    {
+        "prompt": "Looking down at a destroyed city from a plane.",
+        "token_indices": [
+            6,
+            9
+        ]
+    },
+    {
+        "prompt": "A mother bear and her cub crossing a two lane road.",
+        "token_indices": [
+            3,
+            6,
+            11
+        ]
+    },
+    {
+        "prompt": "Uncanny creatures with yin yang flagella in a surreal 1930s cartoon style.",
+        "token_indices": [
+            2,
+            6
+        ]
+    },
+    {
+        "prompt": "A girl with pink pigtails and face tattoos.",
+        "token_indices": [
+            2,
+            5,
+            8
+        ]
+    },
+    {
+        "prompt": "An airplane is flying with a white line in the sky above it.",
+        "token_indices": [
+            2,
+            8,
+            11
+        ]
+    },
+    {
+        "prompt": "Portrait of Steve Buscemi by Ilya Kuvshinov.",
+        "token_indices": [
+            4
+        ]
+    },
+    {
+        "prompt": "A full body portrait of Andre the Giant in the style of Justin Roiland.",
+        "token_indices": [
+            3,
+            7
+        ]
+    },
+    {
+        "prompt": "A cat with two horns on its head.",
+        "token_indices": [
+            2,
+            5,
+            8
+        ]
+    },
+    {
+        "prompt": "Cartoonish serpent cephalopod mutants emerge from a fiery hell.",
+        "token_indices": [
+            2,
+            4,
+            9
+        ]
+    },
+    {
+        "prompt": "The umpire, catcher and batter during a baseball game",
+        "token_indices": [
+            2,
+            4,
+            6,
+            10
+        ]
+    },
+    {
+        "prompt": "An anime style demon princess is depicted in a digital painting.",
+        "token_indices": [
+            4,
+            5
+        ]
+    },
+    {
+        "prompt": "a cellphone standing on a counter next to a small statue of buddy christ",
+        "token_indices": [
+            2,
+            6,
+            11
+        ]
+    },
+    {
+        "prompt": "Carrots bundled up for sale at an outside market",
+        "token_indices": [
+            1,
+            9
+        ]
+    },
+    {
+        "prompt": "An airplane is flying down above a tree.",
+        "token_indices": [
+            2,
+            8
+        ]
+    },
+    {
+        "prompt": "an image of a messy counter in a bathroom",
+        "token_indices": [
+            6,
+            9
+        ]
+    },
+    {
+        "prompt": "Spider Man holding a ginger cat.",
+        "token_indices": [
+            2,
+            6
+        ]
+    },
+    {
+        "prompt": "Portrait of an anime princess in white and golden clothes.",
+        "token_indices": [
+            5,
+            10
+        ]
+    },
+    {
+        "prompt": "Kinetic wind sculpture in 3D render.",
+        "token_indices": [
+            2,
+            3
+        ]
+    },
+    {
+        "prompt": "A spaceship in an empty landscape.",
+        "token_indices": [
+            2,
+            6
+        ]
+    },
+    {
+        "prompt": "The bus is parked beside of the shopping center.",
+        "token_indices": [
+            2,
+            9
+        ]
+    },
+    {
+        "prompt": "A train that is going by a building.",
+        "token_indices": [
+            2,
+            8
+        ]
+    },
+    {
+        "prompt": "A portrait of Nyan Cat, styled after Annie Leibovitz's dramatic photography.",
+        "token_indices": [
+            5
+        ]
+    },
+    {
+        "prompt": "A gummy chameleon hanging on a tree branch.",
+        "token_indices": [
+            3,
+            8
+        ]
+    },
+    {
+        "prompt": "a man walking alone down the street in a velvet jacket",
+        "token_indices": [
+            2,
+            7,
+            11
+        ]
+    },
+    {
+        "prompt": "Oil portrait of a skeleton in a Victorian suit.",
+        "token_indices": [
+            5,
+            9
+        ]
+    },
+    {
+        "prompt": "The image is of an anthropomorphic orange walking on a sidewalk.",
+        "token_indices": [
+            7,
+            11
+        ]
+    },
+    {
+        "prompt": "Gillian Anderson in a science fiction film directed by John Carpenter.",
+        "token_indices": [
+            2,
+            6
+        ]
+    },
+    {
+        "prompt": "Two little dogs looking a large pizza sitting on a table.",
+        "token_indices": [
+            3,
+            7,
+            11
+        ]
+    },
+    {
+        "prompt": "Three zebras crowd around each other in a painting.",
+        "token_indices": [
+            2,
+            3
+        ]
+    },
+    {
+        "prompt": "A surreal dark painting featuring mythical creatures, by Ronny Khalil.",
+        "token_indices": [
+            7
+        ]
+    },
+    {
+        "prompt": "An androgynous glam rocker poses outside CBGB in the style of Phil Hale.",
+        "token_indices": [
+            4,
+            7
+        ]
+    },
+    {
+        "prompt": "A cave painting of a Stone Age party.",
+        "token_indices": [
+            2,
+            8
+        ]
+    },
+    {
+        "prompt": "The image is of dancing potatoes in a cute cartoony style.",
+        "token_indices": [
+            6
+        ]
+    },
+    {
+        "prompt": "A one eyed dwarf wizard holding a flagon in clean cel shaded vector art.",
+        "token_indices": [
+            4,
+            8
+        ]
+    },
+    {
+        "prompt": "A blue vase filled with yellow flowers on a window sill.",
+        "token_indices": [
+            3,
+            7,
+            11
+        ]
+    },
+    {
+        "prompt": "freshly baked donuts priced to sell at 60 cents each",
+        "token_indices": [
+            3,
+            9
+        ]
+    },
+    {
+        "prompt": "People standing in the grass playing with a frisbee.",
+        "token_indices": [
+            1,
+            5,
+            9
+        ]
+    },
+    {
+        "prompt": "The image is titled 'Left 4 Dead' and was painted by John William Waterhouse.",
+        "token_indices": [
+            6
+        ]
+    },
+    {
+        "prompt": "Mugshot of Superman with unkempt appearance and green skin.",
+        "token_indices": [
+            1,
+            3,
+            6,
+            9
+        ]
+    },
+    {
+        "prompt": "A little kid riding a skateboard down a sidewalk.",
+        "token_indices": [
+            3,
+            6,
+            9
+        ]
+    },
+    {
+        "prompt": "Groot depicted as a flower.",
+        "token_indices": [
+            1,
+            5
+        ]
+    },
+    {
+        "prompt": "Snow boarder falling down in almost white out conditions of snow.",
+        "token_indices": [
+            2,
+            11
+        ]
+    },
+    {
+        "prompt": "A book about the history of Pepe the Frog.",
+        "token_indices": [
+            2,
+            5,
+            7
+        ]
+    },
+    {
+        "prompt": "A couple of men are standing outside their car watching sheep cross a road.",
+        "token_indices": [
+            4,
+            9,
+            11,
+            14
+        ]
+    },
+    {
+        "prompt": "The image shows centric diatoms.",
+        "token_indices": [
+            5
+        ]
+    },
+    {
+        "prompt": "A giraffe stands inside a enclosure with a group of people standing near by. ",
+        "token_indices": [
+            2,
+            6,
+            11
+        ]
+    },
+    {
+        "prompt": "a papaya fruit dressed as a sailor.",
+        "token_indices": [
+            1,
+            7
+        ]
+    },
+    {
+        "prompt": "Bikes sit parked under trees on a city street.",
+        "token_indices": [
+            1,
+            5,
+            9
+        ]
+    },
+    {
+        "prompt": "A large dog laying on a couch in a room.",
+        "token_indices": [
+            3,
+            7,
+            10
+        ]
+    },
+    {
+        "prompt": "A man with his finger held up to his nose.",
+        "token_indices": [
+            2,
+            5,
+            10
+        ]
+    },
+    {
+        "prompt": "Dr Pepper floating in space, viewed through the window of a spaceship.",
+        "token_indices": [
+            2,
+            5,
+            10,
+            13
+        ]
+    },
+    {
+        "prompt": "A nebula forms the shape of a face in this detailed artwork.",
+        "token_indices": [
+            2,
+            8
+        ]
+    },
+    {
+        "prompt": "A jellyfish sleeping in a space station pod.",
+        "token_indices": [
+            2,
+            8
+        ]
+    },
+    {
+        "prompt": "A view of a red light at Tenth Avenue",
+        "token_indices": [
+            6,
+            9
+        ]
+    },
+    {
+        "prompt": "A still of Doraemon from Shaun the Sheep by Aardman Animation.",
+        "token_indices": [
+            4,
+            8
+        ]
+    },
+    {
+        "prompt": "A group of people on a field playing with a frisbee.",
+        "token_indices": [
+            4,
+            7,
+            11
+        ]
+    },
+    {
+        "prompt": "A watercolor portrait of a woman by Luke Rueda Studios and David Downton.",
+        "token_indices": [
+            2,
+            6
+        ]
+    },
+    {
+        "prompt": "A man stands in front of a bus and a car that have collided.",
+        "token_indices": [
+            2,
+            8,
+            11
+        ]
+    },
+    {
+        "prompt": "A fruit basket on a kitchen table with a Studio Ghibli reference.",
+        "token_indices": [
+            3,
+            7,
+            12
+        ]
+    },
+    {
+        "prompt": "A painting featuring two men in a fighting scene wearing black jodhpurs.",
+        "token_indices": [
+            5,
+            8,
+            12
+        ]
+    },
+    {
+        "prompt": "A corgi puppy with many eyes depicted in a horror manga drawn by Junji Ito.",
+        "token_indices": [
+            3,
+            6
+        ]
+    },
+    {
+        "prompt": "Renaissance angel depicted in Gerhard Richter's oil painting.",
+        "token_indices": [
+            2
+        ]
+    },
+    {
+        "prompt": "A depiction of Chucky, the killer doll in anime style.",
+        "token_indices": [
+            4,
+            8
+        ]
+    },
+    {
+        "prompt": "a pointillism ink painting of a Japanese demon with high detail.",
+        "token_indices": [
+            8
+        ]
+    },
+    {
+        "prompt": "The image is of Pixel Art Huggy Wuggy performing a jumpscare.",
+        "token_indices": [
+            8,
+            11
+        ]
+    },
+    {
+        "prompt": "Hyper realistic matte painting of the legendary ancient world of Shangrila.",
+        "token_indices": [
+            9,
+            11
+        ]
+    },
+    {
+        "prompt": "A pocketwatch hangs from a steam punk hot air balloon amidst a swirling mist.",
+        "token_indices": [
+            2,
+            10,
+            14
+        ]
+    },
+    {
+        "prompt": "A portrait painting of Batman on Artstation.",
+        "token_indices": [
+            5
+        ]
+    },
+    {
+        "prompt": "Zarya from Overwatch jumping from a tall bridge into action.",
+        "token_indices": [
+            1,
+            3,
+            8
+        ]
+    },
+    {
+        "prompt": "A stop sign with the phrase \"hammer time\" written on it. ",
+        "token_indices": [
+            3,
+            5
+        ]
+    },
+    {
+        "prompt": "Kids are peering over a fence as a train rolls by.",
+        "token_indices": [
+            1,
+            6,
+            9
+        ]
+    },
+    {
+        "prompt": "A baseball player pitching a baseball on a field.",
+        "token_indices": [
+            3,
+            6,
+            9
+        ]
+    },
+    {
+        "prompt": "A point and click adventure based on Breaking Bad.",
+        "token_indices": [
+            5,
+            9
+        ]
+    },
+    {
+        "prompt": "Teenage boy wearing a skull mask and smoking.",
+        "token_indices": [
+            2,
+            6,
+            8
+        ]
+    },
+    {
+        "prompt": "an empty bench next to a busy street.",
+        "token_indices": [
+            3,
+            8
+        ]
+    },
+    {
+        "prompt": "A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.",
+        "token_indices": [
+            6
+        ]
+    },
+    {
+        "prompt": "A full body pic of a comic character drawn by Rob Liefield.",
+        "token_indices": [
+            3,
+            8
+        ]
+    },
+    {
+        "prompt": "White lines depict topography on a black background.",
+        "token_indices": [
+            2,
+            4
+        ]
+    },
+    {
+        "prompt": "A lady in a purple dress sitting in a tree concept art.",
+        "token_indices": [
+            2,
+            6,
+            10
+        ]
+    },
+    {
+        "prompt": "Several bunches of unripened bananas growing from trees.",
+        "token_indices": [
+            2,
+            5,
+            8
+        ]
+    },
+    {
+        "prompt": "A vampire wearing Dr Martens shoes.",
+        "token_indices": [
+            2,
+            6
+        ]
+    },
+    {
+        "prompt": "A detailed and realistic fantasy Proto Slavic skinny red troll creature.",
+        "token_indices": [
+            5,
+            11
+        ]
+    },
+    {
+        "prompt": "A wooden trunk sitting outside with stickers on it.",
+        "token_indices": [
+            3,
+            7
+        ]
+    },
+    {
+        "prompt": "a vehicle with many people even on top",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "Mythical beasts around a fire in a dark, surreal painting by Ronny Khalil.",
+        "token_indices": [
+            2,
+            5
+        ]
+    },
+    {
+        "prompt": "A bunch of people waiting in line by a rail.",
+        "token_indices": [
+            4,
+            10
+        ]
+    },
+    {
+        "prompt": "Scene from the 1931 science fiction film Escape from New York.",
+        "token_indices": [
+            7,
+            11
+        ]
+    },
+    {
+        "prompt": "A clock tower with lighted clock faces, against a twilight sky.",
+        "token_indices": [
+            3,
+            7,
+            12
+        ]
+    },
+    {
+        "prompt": "Side view blue ice sneaker inspired by Spiderman created by Weta FX.",
+        "token_indices": [
+            5,
+            8
+        ]
+    },
+    {
+        "prompt": "A tanker trunk is on its side on the side of a road near a police car.",
+        "token_indices": [
+            3,
+            13,
+            17
+        ]
+    },
+    {
+        "prompt": "People rafting on a river while others ride on top of elephants.",
+        "token_indices": [
+            1,
+            5,
+            12
+        ]
+    },
+    {
+        "prompt": "Wicked witch casting fireball dressed in green with screaming expression.",
+        "token_indices": [
+            2,
+            4,
+            10
+        ]
+    },
+    {
+        "prompt": "a girl a white bear a camera a tea pot and a cup",
+        "token_indices": [
+            2,
+            5,
+            7,
+            10,
+            13
+        ]
+    },
+    {
+        "prompt": "The image depicts a Sri Lankan king, created by artist Nizovtsev, Victor.",
+        "token_indices": [
+            7
+        ]
+    },
+    {
+        "prompt": "A blue airplane in a blue, cloudless sky",
+        "token_indices": [
+            3,
+            9
+        ]
+    },
+    {
+        "prompt": "a plate that has some kind of food on it",
+        "token_indices": [
+            2,
+            8
+        ]
+    },
+    {
+        "prompt": "A train is coming along near some unusual looking tracks.",
+        "token_indices": [
+            2,
+            10
+        ]
+    },
+    {
+        "prompt": "Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.",
+        "token_indices": [
+            2
+        ]
+    },
+    {
+        "prompt": "A lighted birthday cake with chunks of walnuts.",
+        "token_indices": [
+            4,
+            8
+        ]
+    },
+    {
+        "prompt": "There is a bicycle parked next to a car.",
+        "token_indices": [
+            4,
+            9
+        ]
+    },
+    {
+        "prompt": "Ralsei and Asriel from Deltarune eating pizza.",
+        "token_indices": [
+            1,
+            3,
+            7
+        ]
+    },
+    {
+        "prompt": "A man playing with a tennis racquet, on a court.",
+        "token_indices": [
+            2,
+            7,
+            11
+        ]
+    },
+    {
+        "prompt": "a train on a track with a car near by",
+        "token_indices": [
+            2,
+            5,
+            8
+        ]
+    },
+    {
+        "prompt": "2B from NieR Automata eating a bagel.",
+        "token_indices": [
+            1,
+            4,
+            7
+        ]
+    },
+    {
+        "prompt": "Interior of a cathedral with a koi pond and surrounding greenery.",
+        "token_indices": [
+            4,
+            8,
+            11
+        ]
+    },
+    {
+        "prompt": "a public transit bus on a city street ",
+        "token_indices": [
+            4,
+            8
+        ]
+    },
+    {
+        "prompt": "A portrait painting of Lashaundra Garrette.",
+        "token_indices": [
+            6
+        ]
+    },
+    {
+        "prompt": "Keqing from Genshin Impact.",
+        "token_indices": [
+            1,
+            4
+        ]
+    }
+]
